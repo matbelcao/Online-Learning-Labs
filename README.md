@@ -2,7 +2,7 @@
 
 These Matlab laboratories were developed when I attended the course *"055047 - ONLINE LEARNING AND MONITORING"* during my studies at *Politecnico di Milano*
 
-The original lab codes have been provided by the course professors Boracchi and Trovò, with some missing parts to be completed. My task was to complete the code of the Matlab algorithms using what I learned from the lessons.
+The original lab codes have been provided by the course professors Boracchi and Trovò, and originally had some missing parts to be completed. My task was to complete the algorithms code using what I learned from the lessons.
 
 </br>
 
